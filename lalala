@@ -75,8 +75,6 @@
 </head>
 <body>
   
-</body>
-</html>
 
 <div class="frame-2">
   <img class="image-1" src="images\image 1.png" />
@@ -86,3 +84,4 @@
   <img class="image-6" src="images\image 6.png" />
   <img class="image-8" src="images\image 8.png" />
 </div>
+</body>
