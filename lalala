@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Document</title>
+
+<style>
+  .frame-2,
+.frame-2 * {
+  box-sizing: border-box;
+}
+.frame-2 {
+  background: #fee100;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1920px;
+  height: 1080px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.image-1 {
+  width: 370px;
+  height: 165.05px;
+  position: absolute;
+  left: 1550px;
+  top: 15px;
+  object-fit: cover;
+}
+.image-7 {
+  width: 397px;
+  height: 132.33px;
+  position: absolute;
+  left: 0px;
+  top: 20px;
+  object-fit: cover;
+}
+.image-3 {
+  width: 360px;
+  height: 330.41px;
+  position: absolute;
+  left: calc(50% - 180px);
+  top: calc(50% - 187px);
+  object-fit: cover;
+}
+.image-5 {
+  width: 210px;
+  height: 262.99px;
+  position: absolute;
+  left: 1050px;
+  top: 687px;
+  object-fit: cover;
+}
+.image-6 {
+  width: 220px;
+  height: 245.77px;
+  position: absolute;
+  left: 683px;
+  top: 710px;
+  object-fit: cover;
+}
+.image-8 {
+  width: 720px;
+  height: 325.87px;
+  position: absolute;
+  left: 590px;
+  top: 84px;
+  object-fit: cover;
+}
+
+</style>
+
+</head>
+<body>
+  
+</body>
+</html>
+
+<div class="frame-2">
+  <img class="image-1" src="images\image 1.png" />
+  <img class="image-7" src="images\image 7.png" />
+  <img class="image-3" src="images\image 3.png" />
+  <img class="image-5" src="images\image 5.png" />
+  <img class="image-6" src="images\image 6.png" />
+  <img class="image-8" src="images\image 8.png" />
+</div>
